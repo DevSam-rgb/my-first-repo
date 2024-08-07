@@ -1,2 +1,2 @@
 # my-first-repo
-i'm exicting
+my-first-repo on github
